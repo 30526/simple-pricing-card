@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Arafat Hossain",
+        "marks": {
+            "english": 78,
+            "math": 85,
+            "science": 74
+        }
+    },
+    {
+        "id": 2,
+        "name": "Nusrat Jahan",
+        "marks": {
+            "english": 92,
+            "math": 88,
+            "science": 95
+        }
+    },
+    {
+        "id": 3,
+        "name": "Rafi Ahmed",
+        "marks": {
+            "english": 67,
+            "math": 73,
+            "science": 70
+        }
+    },
+    {
+        "id": 4,
+        "name": "Meem Rahman",
+        "marks": {
+            "english": 85,
+            "math": 91,
+            "science": 89
+        }
+    },
+    {
+        "id": 5,
+        "name": "Tahmid Islam",
+        "marks": {
+            "english": 74,
+            "math": 80,
+            "science": 78
+        }
+    },
+    {
+        "id": 6,
+        "name": "Sumaiya Akter",
+        "marks": {
+            "english": 90,
+            "math": 84,
+            "science": 92
+        }
+    },
+    {
+        "id": 7,
+        "name": "Hasan Mahmud",
+        "marks": {
+            "english": 65,
+            "math": 70,
+            "science": 68
+        }
+    },
+    {
+        "id": 8,
+        "name": "Rima Chowdhury",
+        "marks": {
+            "english": 88,
+            "math": 82,
+            "science": 90
+        }
+    },
+    {
+        "id": 9,
+        "name": "Adnan Karim",
+        "marks": {
+            "english": 79,
+            "math": 76,
+            "science": 83
+        }
+    },
+    {
+        "id": 10,
+        "name": "Farhana Haque",
+        "marks": {
+            "english": 94,
+            "math": 89,
+            "science": 97
+        }
+    }
+]
