@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "planName": "Basic Plan",
+        "price": 1500,
+        "description": "Ideal for newcomers who want to start their fitness journey with access to essential gym facilities.",
+        "features": [
+            "Full access to gym floor and equipment",
+            "Locker and shower facility",
+            "Basic fitness assessment by trainer",
+            "Free Wi-Fi access",
+            "Access from 8 AM – 9 PM",
+            "Music and entertainment zone"
+        ]
+    },
+    {
+        "id": 2,
+        "planName": "Standard Plan",
+        "price": 4000,
+        "description": "A popular plan designed for regular gym members who want trainer guidance and more flexibility.",
+        "features": [
+            "Access to all Basic Plan facilities",
+            "Personal trainer (2 sessions/month)",
+            "Yoga and Zumba classes",
+            "Priority locker access",
+            "Access from 7 AM – 10 PM",
+            "Nutrition tips and progress tracking",
+            "Monthly body composition analysis",
+            "Access to indoor cycling area"
+         
+        ]
+    },
+    {
+        "id": 3,
+        "planName": "Premium Plan",
+        "price": 7000,
+        "description": "For fitness lovers seeking full support, personal coaching, and luxury amenities.",
+        "features": [
+            "Access to all Standard Plan facilities",
+            "Unlimited personal training sessions",
+            "Customized diet and workout plan",
+            "Steam and sauna room access",
+            "Massage and recovery zone",
+            "Free gym merchandise (T-shirt, towel)",
+            "Advanced health monitoring reports",
+            "Weekend outdoor training sessions",
+            "Priority class booking"
+        ]
+    }
+   
+]
